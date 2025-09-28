@@ -1,0 +1,1 @@
+﻿C:\Users\kangw\Desktop\창고\제작\그래픽스\Kw_gr\Kw_gr\Kw_gr.vcxproj(70,5): error MSB4019: 가져온 프로젝트 "C:\Users\kangw\opengl\PropertySheet.props"을(를) 찾을 수 없습니다. "..\..\..\..\..\..\opengl\PropertySheet.props"(으)로 평가된 Import 선언 "..\..\..\..\..\..\opengl\PropertySheet.props의 식이 올바르고 파일이 디스크에 있는지 확인합니다.
